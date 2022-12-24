@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadAttherulhaque
-- 👀 I’m interested in Java, Data Science, Sql 
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Java, Data Science,Data Engineering, Database Development, Sql, PL/SQL
+- 🌱 I’m currently learning Data Science, R programming and working on Euronet Pakistan as IBM AS400 developer. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me m.attherulhaq@gmail.com
 
